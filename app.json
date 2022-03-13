@@ -1,0 +1,8 @@
+{
+  "name": "kuromoji-js-dict-generator",
+  "description": "Custom dict generator for kuromoji.js",
+  "repository": "https://github.com/takoba/kuromoji-js-dict-generator",
+  "website": "https://github.com/takoba/kuromoji-js-dict-generator",
+  "keywords": ["node", "typescript"],
+  "env": {}
+}
